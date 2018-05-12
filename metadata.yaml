@@ -1,0 +1,50 @@
+_repo: Reflections-on-War-and-Death_35875
+_version: 0.1.0
+alternative_title: Zeitgemässes über Krieg und Tod. English
+contributor:
+  translators:
+  - agent_name: Kuttner, Alfred B. (Alfred Booth)
+    alias: Kuttner, Alfred Booth
+    birthdate: 1886
+    gutenberg_agent_id: '37951'
+    url: http://www.gutenberg.org/2009/agents/37951
+  - agent_name: Brill, A. A. (Abraham Arden)
+    alias: Brill, Abraham Arden
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '5774'
+    url: http://www.gutenberg.org/2009/agents/5774
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: As the founder of the field of psychoanalysis, Austrian neurologist Sigmund
+  Freud possessed remarkable insight into the human psyche. This collection brings
+  together two interesting essays in which Freud applies his unparalleled understanding
+  of the workings of the human mind to a discussion of a pair of perennial problems.
+gutenberg_issued: '2011-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35875'
+  lccn: '18010282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Death -- Psychological aspects'
+- !lcc 'BD'
+- !lcc 'BF'
+- !lcsh 'Civilization -- Philosophy'
+- !lcsh 'War -- Psychological aspects'
+- !lcsh 'Psychoanalysis and culture'
+title: Reflections on War and Death
+url: http://www.gutenberg.org/ebooks/35875
